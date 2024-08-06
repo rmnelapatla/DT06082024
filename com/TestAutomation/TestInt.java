@@ -1,2 +1,4 @@
-package com.TestAutomation;public interface TestInt {
+package com.TestAutomation;
+
+public interface TestInt {
 }
